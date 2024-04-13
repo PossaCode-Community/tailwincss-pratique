@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#A53DFF"
+        primary: "#A53DFF",
       },
       container: {
         center: true,
@@ -12,7 +12,7 @@ export default {
       },
 
       fontFamily: {
-        poppins: "var(--fn-poppins)",
+        work: "Work Sans",
       },
     },
   },
